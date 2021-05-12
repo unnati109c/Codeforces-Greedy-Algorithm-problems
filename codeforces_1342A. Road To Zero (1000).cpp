@@ -39,5 +39,5 @@ int main()
 		cout<<RoadToZero(x,y,a,b)<<endl;
 	}
 
-	return 0;
+	return 0; 
 }
